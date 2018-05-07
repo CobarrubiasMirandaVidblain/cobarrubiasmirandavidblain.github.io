@@ -1,0 +1,44 @@
+div{
+    color: white;
+    width: 700px;
+    height: 600px;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: scroll;
+    border-radius: 3%;
+}
+.fondo{
+    background-image: url("calavera.jpg")
+}
+a {
+    width: 150px;
+    height: 50px;
+    background-color: rgba(1,1,1,0.7);
+   
+    margin: 5px;
+}
+
+.sidenav {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 25px;
+    text-decoration: none;
+    font-size: 12px;
+    color: #818181;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
