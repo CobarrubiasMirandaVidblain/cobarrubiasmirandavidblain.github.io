@@ -7,9 +7,17 @@ div{
     margin-right: auto;
     overflow: scroll;
     border-radius: 3%;
+    background-color: rgba(1, 0, 7, 0.603);
 }
 .fondo{
     background-image: url("calavera.jpg")
+}
+.img_autor{
+padding: 0 0 0 200px;
+}
+#autor{
+text-align: center;
+color: red;    
 }
 a {
     width: 150px;

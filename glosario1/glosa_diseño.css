@@ -1,22 +1,25 @@
+.fondo{
+    background-image: url("calavera.jpg")
+}
+dt{
+    color:red;
+    font-weight: bold;
+    
+}
+h2{
+    text-align: center;
+}
 div{
-    color: white;
+    color:rgb(27, 2, 250);
     width: 700px;
     height: 600px;
-    padding-right: 6px;
-    
     text-align: justify;
     margin-left: auto;
     margin-right: auto;
     overflow: scroll;
     border-radius: 3%;
-    background-color: rgba(17, 17, 17, 0.774);
-}
-#disqus_thread{
-    margin-top: 20px;
-overflow: hidden;
-}
-.fondo{
-    background-image: url("calavera.jpg")
+    
+    background-color: powderblue;
 }
 a {
     width: 150px;

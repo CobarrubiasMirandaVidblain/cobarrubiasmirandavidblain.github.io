@@ -7,9 +7,14 @@ div{
     margin-right: auto;
     overflow: scroll;
     border-radius: 3%;
+    background-color: rgba(17, 17, 17, 0.774);
 }
 .fondo{
     background-image: url("calavera.jpg")
+}
+#disqus_thread{
+    margin-top: 20px;
+overflow: hidden;
 }
 a {
     width: 150px;
